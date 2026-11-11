@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "刃帧 KERF",
+      "hasCanvas": false,
+      "bodyTextLen": 753,
+      "bodyTextHash": "097958f85fba8ce45662c19214b251cdb318faae7da343218a8ae00e6d5a01fb",
+      "bodyTextPrefix": "刃帧 KERF 引擎 作业 参数 滤镜 Kotlin 配置留在这台浏览器里。转码发生在你自己的 Kotlin 进程中。 01 引",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "刃帧 KERF",
+      "hasCanvas": false,
+      "bodyTextLen": 720,
+      "bodyTextHash": "ad1bfdb3ccac88ec6a0b0cf048f021fb2f03d4c811775642912ecc82cacd2334",
+      "bodyTextPrefix": "刃帧 KERF 引擎 作业 参数 滤镜 Kotlin 01 引擎 指定 FFmpeg 从哪里来。刃帧只负责把这个选择写进 Kot",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
